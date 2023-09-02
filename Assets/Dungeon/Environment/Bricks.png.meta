@@ -131,27 +131,6 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Bricks_1
-      rect:
-        serializedVersion: 2
-        x: 256
-        y: 1792
-        width: 256
-        height: 256
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: f111adec2ce037d489d01706f8bf5bb5
-      internalID: 125896654
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: Bricks_2
       rect:
         serializedVersion: 2
@@ -252,27 +231,6 @@ TextureImporter:
       bones: []
       spriteID: 62cf715b84628be47af9df0aeb1cd98e
       internalID: 1720425483
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Bricks_7
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 1536
-        width: 256
-        height: 256
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 22a2cef883d8a60469d0e56b6aa0db81
-      internalID: -155928262
       vertices: []
       indices: 
       edges: []
@@ -614,27 +572,6 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Bricks_24
-      rect:
-        serializedVersion: 2
-        x: 512
-        y: 1024
-        width: 256
-        height: 256
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: ea006daf130cda04ba8c29405426ea32
-      internalID: -677423083
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: Bricks_25
       rect:
         serializedVersion: 2
@@ -672,27 +609,6 @@ TextureImporter:
       bones: []
       spriteID: 988cdb48354c6864b86549d8af7626c0
       internalID: 222328667
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Bricks_27
-      rect:
-        serializedVersion: 2
-        x: 1280
-        y: 1024
-        width: 256
-        height: 256
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: de0f172d33f10744f930c9020b495fab
-      internalID: -329080263
       vertices: []
       indices: 
       edges: []
